@@ -4,7 +4,7 @@
     <id>HelixToolkit.Wpf</id>
     <version>$version$</version>
     <title>Helix Toolkit for WPF</title>
-    <authors>objo</authors>
+    <authors>GrabMind</authors>
     <licenseUrl>https://raw.githubusercontent.com/helix-toolkit/helix-toolkit/master/LICENSE</licenseUrl>
     <projectUrl>http://helix-toolkit.github.io/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/helix-toolkit/helix-toolkit/master/Images/helixtoolkit.png</iconUrl>
